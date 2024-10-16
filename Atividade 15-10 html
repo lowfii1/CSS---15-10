@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="atividade1.css">
+</head>
+<body>
+    <header>
+        <p>Cabeçalho</p>
+    </header>
+ 
+    <div class="cont">
+    <div class="item">Barra lateral</div>
+    <div class="item1">Conteúdo Principal</div>
+       
+    </div>
+    <footer>
+        <p>Rodapé</p>
+    </footer>
+   
+</body>
+</html>
